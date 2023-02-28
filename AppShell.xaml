@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project1.AppShell"
+               xmlns:local="clr-namespace:Project1"
+             >
+    <FlyoutItem Title="Simple">
+        <ShellContent
+            Title="Simple"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="SimplePage"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Scientific">
+        <ShellContent
+            Title="Scientific"
+            ContentTemplate="{DataTemplate local:ScientificPage}"
+            Route="ScientificPage"/>
+    </FlyoutItem>
+    <FlyoutItem Title="About">
+        <ShellContent
+            Title="Contributors"
+            ContentTemplate="{DataTemplate local:AboutPage}"
+            Route="AboutPage"/>
+
+    </FlyoutItem>
+
+    <MenuItem Text="Light" Clicked="LightMode"/>
+    <MenuItem Text="Dark" Clicked="DarkMode"/>
+    <MenuItem Text="Mars" Clicked="MarsMode"/>
+    <MenuItem Text="Pink" Clicked="PinkMode"/>
+</Shell>
