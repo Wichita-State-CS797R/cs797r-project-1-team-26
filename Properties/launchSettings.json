@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExtendedCalculatorApp": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
