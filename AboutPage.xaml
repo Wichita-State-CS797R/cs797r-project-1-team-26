@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project1.AboutPage"
+            >
+    <VerticalStackLayout BackgroundColor="{DynamicResource NavigationBarColor}">
+        <BoxView HeightRequest="1"
+                VerticalOptions="End"
+                Color="#000000"
+               />
+        <Label 
+            TextColor="#000000"
+            Padding="10"
+            Style="{StaticResource MediumLabelStyle}"
+            Text="1. Sai Rithik Lingamaneni - D639H379"
+            VerticalOptions="Center" />
+        <Label 
+            TextColor="#000000"
+            Padding="10"
+            Style="{StaticResource MediumLabelStyle}"
+            Text="2. Manvitha Gade - H765F873"
+            VerticalOptions="Center" />
+        <Label 
+            TextColor="#000000"
+            Padding="10"
+            Style="{StaticResource MediumLabelStyle}"
+            Text="3. Manish Yerukala - B962F249"
+            VerticalOptions="Center"  />
+    </VerticalStackLayout>
+</ContentPage>
