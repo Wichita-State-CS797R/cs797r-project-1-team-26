@@ -27,13 +27,13 @@ The application has the following features:
 ![image](https://user-images.githubusercontent.com/124856669/221764837-de6d38c9-1c23-43a9-a370-b2ffb9d51c3f.png)
 
 ### Sources:
-https://chat.openai.com/chat
-https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-7.0
-https://learn.microsoft.com/en-us/dotnet/maui/?view=net-maui-7.0
-https://github.com/dotnet/maui-samples
+- https://chat.openai.com/chat
+- https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-7.0
+- https://learn.microsoft.com/en-us/dotnet/maui/?view=net-maui-7.0
+- https://github.com/dotnet/maui-samples
 
 ## Contributors:
-Sai Rithik Lingamaneni - regularfruita
-Manvitha Gade - h765f873
-Manish Yerukala - b962f249
+- Sai Rithik Lingamaneni - regularfruita
+- Manvitha Gade - h765f873
+- Manish Yerukala - b962f249
 
