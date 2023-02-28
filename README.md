@@ -10,7 +10,7 @@ The application has the following features:
 1. Theming (Dark, Light, Mars(Red), Pink)
 2. Extended functionality on Sqrt, mod, parenthesis (Basic scientific calculations)
 3. Support for comprehensive expressions such as 3 + 4 * 5, (1 + 2) * 3 – (2 + 5)
-& more...
+4. & more...
 
 ## Screenshots:
 
@@ -25,6 +25,7 @@ The application has the following features:
 
 ### Some commits
 ![image](https://user-images.githubusercontent.com/124856669/221764837-de6d38c9-1c23-43a9-a370-b2ffb9d51c3f.png)
+![image](https://user-images.githubusercontent.com/124856669/221766540-1e928124-3831-442c-8543-272540d834aa.png)
 
 ### Sources:
 - https://chat.openai.com/chat
